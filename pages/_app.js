@@ -1,7 +1,7 @@
 import "../styles/globals.css"
 import Link from "next/link"
 
-function MyApp({ Component, pageProps }) {
+function ValyrianMarketPlace({ Component, pageProps }) {
   return (
     <div>
       <nav className="border-b p-6">
@@ -26,4 +26,4 @@ function MyApp({ Component, pageProps }) {
   )
 }
 
-export default MyApp
+export default ValyrianMarketPlace
